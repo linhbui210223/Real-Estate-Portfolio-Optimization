@@ -1,0 +1,5 @@
+{
+  "name": "QuantEstate Portfolio",
+  "description": "A quantitative finance tool to optimize real estate investment portfolios using Linear Programming and NPV analysis.",
+  "requestFramePermissions": []
+}
